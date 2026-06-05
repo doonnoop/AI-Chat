@@ -1,0 +1,50 @@
+:root {
+  /* Colors - Background */
+  --color-bg: #0f0f12;
+  --color-surface: #17171c;
+  --color-surface-elevated: #1b1b22;
+  --color-divider: #25252d;
+
+  /* Colors - Brand */
+  --color-brand: #7c5cff;
+  --color-brand-dark: #6d4ee6;
+  --color-brand-darker: #8b6cff;
+
+  /* Colors - Status */
+  --color-online: #55c955;
+  --color-typing: #fbbf24;
+
+  /* Colors - Chat Bubbles */
+  --bg-ai-bubble: transparent;
+  --bg-user-bubble: #241c35;
+  --border-user-bubble: #5b3f86;
+  --color-ai-bubble-text: #d7d7dc;
+  --color-user-bubble-text: #f3f0ff;
+
+  /* Colors - Code */
+  --color-code-bg: #15151b;
+  --color-code-header-bg: #1b1b22;
+  --color-code-border: #2b2b34;
+
+  /* Colors - Text */
+  --color-text: #e5e7eb;
+  --color-text-strong: #ffffff;
+  --color-text-muted: #8f8f99;
+
+  /* Colors - Suggestion Buttons */
+  --color-suggestion-border: #2f3342;
+  --color-suggestion-bg: #141824;
+  --color-suggestion-hover-bg: #1e1b2e;
+
+  /* Border Radius */
+  --radius-full: 50%;
+  --radius-pill: 999px;
+  --radius-bubble: 16px;
+  --radius-input: 12px;
+  --radius-card: 12px;
+
+  /* Shadows */
+  --shadow-bubble: 0 8px 24px rgba(0, 0, 0, 0.18);
+  --shadow-brand-glow: 0 0 12px rgba(124, 92, 255, 0.45);
+  --shadow-focus-ring: 0 0 0 3px rgba(124, 92, 255, 0.2);
+}
